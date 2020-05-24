@@ -1,0 +1,5 @@
+Dumb implementation of text scloller with sdl2
+
+Init codes from http://sdl2referencejp.osdn.jp/
+
+Requirement: SDL2, SDL_mixer 2.0
